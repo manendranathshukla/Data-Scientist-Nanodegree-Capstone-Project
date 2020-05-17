@@ -31,7 +31,7 @@ From that analysis I did in this project. I found out that most favorite type of
 
 ## 5. Blog Post
 
-Blog post ['here'](http://mythingswork.herokuapp.com/post/11/)
+Blog post [here](http://mythingswork.herokuapp.com/post/11/)
 
 ## 6. Licensing, Authors, Acknowledgements
 The data was given by Starbucks and Udacity. Feel free to ask me anything about the code @manendranathshukla
