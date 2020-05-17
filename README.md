@@ -3,6 +3,7 @@
 ## Content
  - Installation
  - Project Motivation
+ - Dataset
  - File Descriptions
  - Results
  - Blog Post
@@ -22,6 +23,9 @@ It is a capstone project through which I am going to determine that how Starbuck
 
 "Offering resources to every customer is waste of money and time". We want to give only those who will be able to complete the offer recommended by us. It is like before offer to someone we know he/she probably will not be able to complete it is a waste of time and resources that can be given to someone who we know will complete it. I will approach this problem through CRISP-DM process by first cleaning up the data, then doing some exploratory analysis and see who are my most valuable customers after that I will create a model to help us predicting feature customers and which type of offer should we give them.
 My goal for this project is predicting which kind of offers, Buy One Get One Free (BOGO), Discount or informational is better to give a current customer by only knowing his/her age, gender, income and the amount they are paying.
+
+## 3. Dataset
+As dataset size is more than 25MB.So,it is not possible to upload it here.But if you want to download the dataset then I uploded to google drive you can download it from [here](https://drive.google.com/open?id=1HqrTVo4SXuXhRqJRL489RzTJ_tieuJp9)
 
 ## 3. File Descriptions
 There is one notebook file that have all the work related to the above questions. The data is not available but I showed the data frames and it have some of the data in it. Markdown cells were used to assist in walking through the thought process for individual steps.
